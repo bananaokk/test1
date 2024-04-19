@@ -4,9 +4,9 @@
 ![](/and.png)
 
 ## anaconda
-![](/anacoda1.png)
-![](/anacoda2.png)
-![](/anacoda3.png)
+![](/anaconda1.png)
+![](/anacodna2.png)
+![](/anacodna3.png)
 
 ## notebook
 ![](/notebook1.png)
