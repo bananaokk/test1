@@ -10,7 +10,7 @@
 
 ## notebook
 ![](/notebook1.png)
-![](/Nooebook.png)
+![](/Nootbook.png)
 
 ## vscode
 ![](/vscode1.png)
